@@ -1,6 +1,6 @@
 # Advent Of Code 2020
 
-Answers for AoC 2020
+My answers for AoC 2020
 
 ## Link
 
